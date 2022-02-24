@@ -1,0 +1,11 @@
+C:\Users\cliente\Desktop\c++\Discurssiva\bin\Debug\Discurssiva.exe.config
+C:\Users\cliente\Desktop\c++\Discurssiva\bin\Debug\Discurssiva.exe
+C:\Users\cliente\Desktop\c++\Discurssiva\bin\Debug\Discurssiva.pdb
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.Form1.resources
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.Properties.Resources.resources
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.exe
+C:\Users\cliente\Desktop\c++\Discurssiva\obj\Debug\Discurssiva.pdb
